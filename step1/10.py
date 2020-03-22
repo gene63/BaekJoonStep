@@ -1,0 +1,5 @@
+a, b, c = input().split()
+a = int(a)
+b = int(b)
+c = int(c)
+print(str((a+b)%c)+'\n'+str(((a%c)+(b%c))%c)+'\n'+str((a*b)%c)+'\n'+str(((a%c)*(b%c))%c))
