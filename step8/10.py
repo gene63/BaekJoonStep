@@ -8,10 +8,14 @@ for i in range(n):
                 start_index = index
                 end_index = index + 1
                 for i in range(start_index+2, len(string)):
+                    if i == (len(string)-1):
+                        if string[i] == char:
+                            del string[index + 1:]
+                            break
                     if string[i] != char:
                         end_index = i
+                        del string[index + 1:end_index]
                         break
-                del string[index+1:end_index]
         elif index < len(string) - 1:
             if char == string[index + 1]:
                 del string[index+1]
