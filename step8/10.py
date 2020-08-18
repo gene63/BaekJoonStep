@@ -3,6 +3,7 @@ count = 0
 for i in range(n):
     string = list(input())
     for index, char in enumerate(string):
+        print(index, char)
         if index < len(string) - 2:
             if char == string[index+1]:
                 start_index = index

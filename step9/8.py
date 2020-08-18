@@ -9,6 +9,8 @@ for _ in range(t):
         if to_go >= 2*i:
             count += 2
             to_go -= 2*i
+            if to_go == 0 :
+                break
         elif to_go > i:
             count += 2
             to_go = to_go - to_go
