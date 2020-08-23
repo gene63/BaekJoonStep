@@ -3,7 +3,7 @@ def sum_to_one (n):
     return int((n+1)*n/2)
 
 for i in range(1000000):
-    if  n <= (sum_to_one(i)):
+    if n <= (sum_to_one(i)):
         layer = i
         break
 

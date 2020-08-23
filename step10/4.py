@@ -1,28 +1,23 @@
 import math
 primes = []
-for num in range(1,123456*2+1):
-    num = int(num)
-    if num == 1:
-        prime = False
-    else:
-        prime = True
-    for i in range(2, int(math.sqrt(num))+1):
-        if num % i == 0:
-            prime = False
-            break
-    if prime:
-        primes.append(num)
-
-result = []
+input_num = []
 while(True):
-    prime_list = []
     n = int(input())
     if n == 0:
         break
-    for i in range(n+1,2*n+1):
-        if i in primes:
-            prime_list.append(i)
-    result.append(len(prime_list))
+    else:
+        input_num.append(n)
 
-for i in result:
-    print(i)
+for num in range(2, 2*max(input_num)+1):
+    prime = True
+    for i in range(2,int(math.sqrt(num))+1):
+        if num % i == 0:
+            prime = False
+            break
+    if prime :
+        primes.append(num)
+
+for n in input_num:
+    lower_prime = [i for i in primes if i > n]
+    upper_prime = [i for i in lower_prime if i < 2*n+1]
+    print(len(upper_prime))

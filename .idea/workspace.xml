@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5cf986-6eaf-4887-9616-728cc32f99d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/step10/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step10/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step10/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step10/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step10/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step10/9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step8/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/step8/10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step9/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/step9/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ect/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step10/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/step10/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step9/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/step9/4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.8">
+  <component name="RunManager" selected="Python.10">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BaekJoonStep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step8/10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BaekJoonStep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,28 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BaekJoonStep" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step9/7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,11 +115,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step9/8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BaekJoonStep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step10/9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10" />
+        <item itemvalue="Python.9" />
         <item itemvalue="Python.8" />
         <item itemvalue="Python.7" />
-        <item itemvalue="Python.10" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
+        <item itemvalue="Python.6" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597747494633</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finish step 9">
+      <created>1597754385547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597754385547</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,41 +247,42 @@
     <MESSAGE value="finish step 8" />
     <MESSAGE value="step 9" />
     <MESSAGE value="uncomplete 9-10, 10-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="uncomplete 9-10, 10-4" />
+    <MESSAGE value="finish step 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish step 9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1145" y="171" key="#1" timestamp="1595241265817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1145" y="171" key="#1/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1595241265817" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1597747493925">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="390" y="0" key="CommitChangelistDialog2" timestamp="1597754384633">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597747493925" />
-    <state x="390" y="0" key="CommitChangelistDialog2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597652176421" />
-    <state width="1899" height="171" key="GridCell.Tab.0.bottom" timestamp="1597754303349">
+    <state x="390" y="0" key="CommitChangelistDialog2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754384633" />
+    <state width="938" height="302" key="GridCell.Tab.0.bottom" timestamp="1598180783759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597746928690" />
-    <state width="1899" height="171" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754303349" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597916183799" />
+    <state width="938" height="302" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598180783759" />
     <state width="1259" height="124" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1597064242548" />
-    <state width="1899" height="171" key="GridCell.Tab.0.center" timestamp="1597754303348">
+    <state width="938" height="302" key="GridCell.Tab.0.center" timestamp="1598180783759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597746928689" />
-    <state width="1899" height="171" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754303348" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597916183799" />
+    <state width="938" height="302" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598180783759" />
     <state width="1259" height="124" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1597064242548" />
-    <state width="1899" height="171" key="GridCell.Tab.0.left" timestamp="1597754303348">
+    <state width="938" height="302" key="GridCell.Tab.0.left" timestamp="1598180783759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597746928689" />
-    <state width="1899" height="171" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754303348" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597916183799" />
+    <state width="938" height="302" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598180783759" />
     <state width="1259" height="124" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1597064242548" />
-    <state width="1899" height="171" key="GridCell.Tab.0.right" timestamp="1597754303349">
+    <state width="938" height="302" key="GridCell.Tab.0.right" timestamp="1598180783759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597746928690" />
-    <state width="1899" height="171" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754303349" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597916183799" />
+    <state width="938" height="302" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598180783759" />
     <state width="1259" height="124" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@1920.0.1280.693" timestamp="1597064242548" />
     <state x="922" y="160" key="SettingsEditor" timestamp="1595241279595">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -277,14 +292,15 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1597546439703" />
-    <state x="368" y="147" key="Vcs.Push.Dialog.v2" timestamp="1597747498031">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597754388249">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="147" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597747498031" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597652178732" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597657637222">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597754388249" />
+    <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1598179988770">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597657637222" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597916065230" />
+    <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1598179988770" />
   </component>
 </project>
