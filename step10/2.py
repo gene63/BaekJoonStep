@@ -1,3 +1,4 @@
+import math
 a = int(input())
 b = int(input())
 
@@ -8,7 +9,7 @@ for num in range(a,b+1):
         prime = False
     else:
         prime = True
-    for i in range(2,num):
+    for i in range(2,int(math.sqrt(num))):
         if num % i == 0:
             prime = False
             break
